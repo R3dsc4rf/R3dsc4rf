@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Python / C++ / QT
+- 💬 Ask me about Anything. If I do not know the answer, we will find it out together. :-)
+- 📫 How to reach me: jan.elsasser@outlook.de
+- ⚡ Fun fact: **21** is just half the answer
 <!--
 **R3dsc4rf/R3dsc4rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
