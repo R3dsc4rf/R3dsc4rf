@@ -4,6 +4,10 @@
 - 💬 Ask me about Anything. If I do not know the answer, we will find it out together. :-)
 - 📫 How to reach me: jan.elsasser@outlook.de
 - ⚡ Fun fact: **21** is just half the answer
+- 🌠 I want to learn Godot or Unity in the future to create a small game.
+- ✔️ I finished:
+- - a small java rot n program
+- - a python error ticket creator tool
 <!--
 **R3dsc4rf/R3dsc4rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything. If I do not know the answer, we will find it out together. :-)
 - 📫 How to reach me: jan.elsasser@outlook.de
 - ⚡ Fun fact: **21** is just half the answer
+- 🌠 I want to learn Godot or Unity in the future to create a small game.
 -->
