@@ -8,6 +8,8 @@
 - ✔️ I finished:
 - - a small java rot n program
 - - a python error ticket creator tool
+- - unity planet orbit calculation (undisclosed)
+- - c++ / QT small Car-Instrument cluseter (undisclosed)
 <!--
 **R3dsc4rf/R3dsc4rf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
