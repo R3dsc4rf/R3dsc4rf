@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python / C++ / QT
+- 🌱 I’m currently learning C#
 - 💬 Ask me about Anything. If I do not know the answer, we will find it out together. :-)
 - 📫 How to reach me: jan.elsasser@outlook.de
 - ⚡ Fun fact: **21** is just half the answer
