@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently a Junior Dev
 - 💬 Ask me about Anything. If I do not know the answer, we will find it out together. :-)
-- 📫 How to reach me: jan.elsasser@outlook.de
 - ⚡ Fun fact: **21** is just half the answer
-- 🌠 I want to learn Godot or Unity in the future to create a small game.
+- 🌠 I want to learn how to create a small game in godot.
 - ✔️ I finished:
   - a small java rot n program
   - a python error ticket creator tool
